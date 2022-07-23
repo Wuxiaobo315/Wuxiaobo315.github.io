@@ -2,3 +2,6 @@
 电影类推荐：
     （1）Collaborative Knowledge Base Embedding for Recommender Systems（7.23）：利用structural knowledge + visual knowledge + textual knowledge + CF 进行推荐。
          其中structural knowledge 利用图的嵌入（trans R），visual knowledge 利用无监督的卷积网络，textual knowledge 利用去噪自编码器提取向量表示。
+    （2）了解 tran e，trans H，trans R等图嵌入方法。（7.23）https://zhuanlan.zhihu.com/p/114470141---KGE方法概述
+    （3）Learning Heterogeneous Knowledge Base Embeddings for Explainable Recommendation（7.23）：
+    （4）https://blog.csdn.net/weixin_45884316/article/details/119038148-----电影打分使用协同过滤算法实例
