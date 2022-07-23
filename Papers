@@ -1,2 +1,4 @@
-第一篇综述：A Survey on Knowledge Graph-Based Recommender Systems
+第一篇综述：A Survey on Knowledge Graph-Based Recommender Systems （7.22）
 电影类推荐：
+    （1）Collaborative Knowledge Base Embedding for Recommender Systems（7.23）：利用structural knowledge + visual knowledge + textual knowledge + CF 进行推荐。
+         其中structural knowledge 利用图的嵌入（trans R），visual knowledge 利用无监督的卷积网络，textual knowledge 利用去噪自编码器提取向量表示。
